@@ -1,0 +1,54 @@
+.updrow {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0 4px;
+}
+
+.updcol {
+  flex: 20%;
+  max-width: 25%;
+  padding: 0 4px;
+}
+
+.item {
+  border: 3px solid gray;
+  border-radius: 10px;
+  margin: 10px;
+  padding: 10px;
+  height: 175px;
+}
+
+.itemnews {
+  border: 3px solid gray;
+  border-radius: 10px;
+  margin: 10px;
+  padding: 10px;
+}
+
+@media screen and (max-width: 800px) {
+  .updcol {
+      flex: 50%;
+      max-width: 48%;
+  }
+  .item {
+    border: 3px solid gray;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 10px;
+    height: 135px;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .updcol {
+      flex: 100%;
+      max-width: 100%;
+  }
+  .item {
+    border: 3px solid gray;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 10px;
+    height: 125px;
+  }
+}
