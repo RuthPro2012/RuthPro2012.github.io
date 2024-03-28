@@ -73,6 +73,8 @@ button:hover{
   overflow: hidden;
   background-color: #eeeeee;
   border-bottom: 1px solid black;
+  top: 0px;
+  position: fixed;
 }
   
 .navbar a {
