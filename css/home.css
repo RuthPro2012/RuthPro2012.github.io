@@ -27,77 +27,23 @@ body, html {
   margin: 10px;
 }
 
-.slideholder {
-  height: 405px;
-  width: 800px;
-  overflow: hidden;
-  background-color: #f5f5b2;
-  margin-left: auto;
-  margin-right: auto;
-  border: 5px solid black;
-  margin-bottom: 10px;
-}
-
-.imageholder {
-  height: 400px;
-  width: 2400px;
-  position: relative;
-  clear: both;
-  transition: left 2s;
-}
-
-.slideimage {
-  height: 400px;
-  width: 800px;
-  float: left;
-  margin: 0px;
-  padding: 0px;
-  position: relative;
-}
-
-.buttonholder {
-  position: relative;
-  top: -20px;
-  right: -375px;
-  background-color: transparent;
-  text-align: left;
-}
-
-.slidechange {
+.portfolio {
   display: inline-block;
-  height: 10px;
-  width: 10px;
-  border-radius: 5px;
-  background-color: #48a26a;
 }
-
-#slideimage1:target~.imageholder {
-  left: 0px;
-}
-
-#slideimage2:target~.imageholder {
-  left: -800px;
-}
-
-#slideimage3:target~.imageholder {
-  left: -1600px;
-}
-
-.portfolioresponsive {
-  display: none;
+.portfolio img{
+  max-height: 500px;
+  max-width: 1000px;
+  border: 5px solid black;
 }
 
 /*Tablet Styling*/
 @media screen and (max-width: 800px) {
   .portfolio {
-    display: none;
-  }
-  .portfolioresponsive {
     display: inline-block;
   }
-  .portfolioresponsive img{
-    height: 250px;
-    width: 500px;
+  .portfolio img{
+    max-height: 250px;
+    max-width: 500px;
     border: 5px solid black;
   }
 }
@@ -105,14 +51,11 @@ body, html {
 /*Phone Styling*/
 @media screen and (max-width: 600px) {
   .portfolio {
-    display: none;
-  }
-  .portfolioresponsive {
     display: inline-block;
   }
-  .portfolioresponsive img{
-    height: 125px;
-    width: 250px;
+  .portfolio img{
+    max-height: 125px;
+    max-width: 250px;
     border: 3px solid black;
   }
 }
