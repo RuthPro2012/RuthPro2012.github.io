@@ -2,20 +2,20 @@
     padding: 10px;
 }
 
-.newsimgs img {
+.updimg img {
     max-height: 300px;
     max-width: 300px;
 }
 
 @media screen and (max-width: 800px) {
-    .mnewsimgs img {
+    .updimg img {
         max-height: 150px;
         max-width: 150px;
     }
 }
 
 @media screen and (max-width: 600px) {
-    .newsimgs img {
+    .updimg img {
         max-height: 75px;
         max-width: 75px;
     }
