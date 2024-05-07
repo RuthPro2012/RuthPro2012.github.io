@@ -2,20 +2,20 @@
     padding: 10px;
 }
 
-.mainbox .updimg img {
+.mainbox img {
     max-height: 300px;
     max-width: 300px;
 }
 
 @media screen and (max-width: 800px) {
-    .mainbox .updimg img {
+    .mainbox img {
         max-height: 150px;
         max-width: 150px;
     }
 }
 
 @media screen and (max-width: 600px) {
-    .mainbox .updimg img {
+    .mainbox img {
         max-height: 75px;
         max-width: 75px;
     }
