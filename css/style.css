@@ -69,6 +69,10 @@ button:hover{
   float: left;
 }
 
+i {
+  color: #5c5c5c;
+}
+
 .navbar {
   overflow: hidden;
   background-color: #eeeeee;
