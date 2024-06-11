@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\rutha\\OneDrive\\ECO-Web\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rutha\\OneDrive\\ECO-Web\\sitemap.xml||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:sitemap.xml||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rutha\\OneDrive\\ECO-Web\\css\\home.css||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:css\\home.css||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
@@ -43,6 +47,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "sitemap.xml",
+              "DocumentMoniker": "C:\\Users\\rutha\\OneDrive\\ECO-Web\\sitemap.xml",
+              "RelativeDocumentMoniker": "sitemap.xml",
+              "ToolTip": "C:\\Users\\rutha\\OneDrive\\ECO-Web\\sitemap.xml",
+              "RelativeToolTip": "sitemap.xml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-06-11T08:19:41.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "home.css",
               "DocumentMoniker": "C:\\Users\\rutha\\OneDrive\\ECO-Web\\css\\home.css",
               "RelativeDocumentMoniker": "css\\home.css",
@@ -55,7 +72,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "index.html",
               "DocumentMoniker": "C:\\Users\\rutha\\OneDrive\\ECO-Web\\index.html",
               "RelativeDocumentMoniker": "index.html",
@@ -68,7 +85,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "welcome-to-eco-web.html",
               "DocumentMoniker": "C:\\Users\\rutha\\OneDrive\\ECO-Web\\updates\\welcome-to-eco-web.html",
               "RelativeDocumentMoniker": "updates\\welcome-to-eco-web.html",
@@ -81,7 +98,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "use-renie-bins.html",
               "DocumentMoniker": "C:\\Users\\rutha\\OneDrive\\ECO-Web\\updates\\use-renie-bins.html",
               "RelativeDocumentMoniker": "updates\\use-renie-bins.html",
@@ -94,7 +111,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "newsletter.html",
               "DocumentMoniker": "C:\\Users\\rutha\\OneDrive\\ECO-Web\\updates\\newsletter.html",
               "RelativeDocumentMoniker": "updates\\newsletter.html",
@@ -107,7 +124,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "how-to-eco-plant-a-tree.html",
               "DocumentMoniker": "C:\\Users\\rutha\\OneDrive\\ECO-Web\\updates\\how-to-eco-plant-a-tree.html",
               "RelativeDocumentMoniker": "updates\\how-to-eco-plant-a-tree.html",
@@ -120,7 +137,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "index.html",
               "DocumentMoniker": "C:\\Users\\rutha\\OneDrive\\ECO-Web\\updates\\index.html",
               "RelativeDocumentMoniker": "updates\\index.html",
